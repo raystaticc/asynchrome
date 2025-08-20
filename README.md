@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asynchrome</h1>
-<h3 align="center">I am 17 y.o fullstack developer. Based in Saint-Peterburg, Russia.</h3>
+<h3 align="center">I am 16 y.o fullstack developer student. Based in Saint-Peterburg, Russia.</h3>
 
 - 🔭 I’m currently working on **my portfolio**
 
