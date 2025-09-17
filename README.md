@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Asynchrome</h1>
 <h3 align="center">I am 16 y.o fullstack developer student. Based in Saint-Peterburg, Russia.</h3>
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working on **musisss.ru**
 
-- 🌱 I’m currently learning **Next.js, React.js, JS, TailwindCSS**
+- 🌱 I’m currently learning **Next.js, React.js, TS, TailwindCSS**
 
 - 👯 I’m looking to collaborate on **React Bits**
 
