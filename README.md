@@ -1,13 +1,51 @@
-### Hi there 👋, my name is Ray
-#### I am c++ backend engineer & pentest maker
-![I am c++ backend engineer & pentest maker](https://i.pinimg.com/736x/51/0c/48/510c48e4ccc8c0708c706c42ff3972e3.jpg)
+### Hi there 👋, I'm Ray
+#### C++ Backend Engineer & Security Researcher
 
-Ray, 16 y.o, based in Russia - St.Peterburg, love kali & c++
+![Security Header](https://i.pinimg.com/736x/51/0c/48/510c48e4ccc8c0708c706c42ff3972e3.jpg)
 
-Skills: C++, python scripts & network concepts, api reverse engineering, kali linux, debian, corperanto network soft.
+**16 y.o. backend developer and penetration tester** from St. Petersburg, Russia. 
+Focus on low-level programming, network security, and reverse engineering.
 
-- 🔭 I’m currently working on CORPERANTO.
+---
 
+### 🛠️ Technical Arsenal
 
+**Languages:** 
+`C++` `Python` `Bash` `Html`
 
+**Security Domains:** 
+`Penetration Testing` `API Reverse Engineering` `Network Security` `Vulnerability Research`
 
+**Platforms:** 
+`Kali Linux` `Debian` `Windows` `Docker`
+
+**Tools of Trade:** 
+`Burp Suite` `Wireshark` `GDB` `Radare2` `Custom C++ Utilities`
+
+---
+
+### 🔭 Current Focus
+
+**Corperanto** - network security framework
+- Low-level packet processing in C++
+- Automated vulnerability assessment
+- Custom protocol analysis
+
+### 🎯 Philosophy
+> *"Understanding systems from hardware to API"*
+> - From memory management to endpoint security
+> - From assembly to web applications
+
+---
+
+### 📈 GitHub Stats
+
+![Ray's GitHub stats](https://github-readme-stats.vercel.app/api?username=asynchromez&show_icons=true&theme=radical)
+
+---
+
+### 🤝 Connect with Me
+- 💼 [Telegram](https://t.me/asynchrome)
+- 📧 Email: asynchrome@mail.ru
+
+*"Breaking systems to build better ones"*
