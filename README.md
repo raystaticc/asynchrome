@@ -40,7 +40,7 @@ Focus on low-level programming, network security, and reverse engineering.
 
 ### 📈 GitHub Stats
 
-![Ray's GitHub stats](https://github-readme-stats.vercel.app/api?username=asynchromez&show_icons=true&theme=radical)
+![Ray's GitHub stats](https://github-readme-stats.vercel.app/api?username=raystaticc&show_icons=true&theme=radical)
 
 ---
 
