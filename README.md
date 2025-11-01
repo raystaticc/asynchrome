@@ -47,5 +47,6 @@ Focus on low-level programming, network security, and reverse engineering.
 ### 🤝 Connect with Me
 - 💼 [Telegram](https://t.me/asynchrome)
 - 📧 Email: asynchrome@mail.ru
+- https://guns.lol/raystatic
 
 *"Breaking systems to build better ones"*
